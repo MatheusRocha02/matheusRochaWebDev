@@ -1,0 +1,45 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Kode+Mono:wght@400..700&display=swap');
+
+
+/* Reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+  font-family: var(--font2);
+}
+body.light{
+  background: var(--bg-gradient);
+}
+body.dark{
+  background: black;
+}
+
+/* Variables */
+:root{
+  --bg-gradient: linear-gradient(to right, #000000, #c89116);
+  --gradient: linear-gradient(to left, #000000, #c89116);
+
+  --yellow: #c89116;
+  --lighter-yellow: #faba667a;
+  --black: #0000;
+  --white: white;  
+
+  --shadow-1: 0 0 1rem #c89116;
+  --shadow-2: 0 0 5rem orange;
+  --shadow-3: 0.1rem 0.1rem 0.5rem rgba(0, 0, 0, 0.678);
+
+  --font1: 'kode mono', sans-serif;
+  --font2: 'DM Sans';
+}
+
+/* Global */

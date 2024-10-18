@@ -1,0 +1,27 @@
+*{
+    color: var(--white);
+}
+
+.text-container{
+    width: 90dvw;
+    padding: 2rem 3rem;
+}
+.text-container h4{
+    font-family: var(--font1);
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    opacity: 0.9;
+    text-align: center;
+    font-weight: 300;
+}
+.text-container p{
+    font-size: 1.7rem;
+    text-align: center;
+}
+
+@media(min-width: 769px) {
+    .text-container{
+        width: 70%;
+    }
+    
+  }

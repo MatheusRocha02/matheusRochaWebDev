@@ -1,0 +1,31 @@
+@import url(../about.css);
+
+.stack-title{
+    color: var(--white);
+    font-family: var(--font1);
+}
+
+.stack-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4rem;
+    gap: 1.7rem;
+    width: 90dvw;
+    padding: 1rem 0 2rem 0;
+}
+.stack-icons{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.stack-icons svg{
+    color: var(--white);
+}
+
+@media(min-width: 768px){
+    .stack-container{
+        width: 90rem;
+    }
+}
