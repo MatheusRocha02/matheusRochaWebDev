@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/matheusRochaWebDeveloper/static/css/main.37678f76.chunk.css",
+    "main.js": "/matheusRochaWebDeveloper/static/js/main.804f529b.chunk.js",
+    "main.js.map": "/matheusRochaWebDeveloper/static/js/main.804f529b.chunk.js.map",
+    "runtime~main.js": "/matheusRochaWebDeveloper/static/js/runtime~main.c74f778b.js",
+    "runtime~main.js.map": "/matheusRochaWebDeveloper/static/js/runtime~main.c74f778b.js.map",
+    "static/js/2.80baec2a.chunk.js": "/matheusRochaWebDeveloper/static/js/2.80baec2a.chunk.js",
+    "static/js/2.80baec2a.chunk.js.map": "/matheusRochaWebDeveloper/static/js/2.80baec2a.chunk.js.map",
+    "index.html": "/matheusRochaWebDeveloper/index.html",
+    "precache-manifest.c603fbda34503487cd0dd965909ac75d.js": "/matheusRochaWebDeveloper/precache-manifest.c603fbda34503487cd0dd965909ac75d.js",
+    "service-worker.js": "/matheusRochaWebDeveloper/service-worker.js",
+    "static/css/main.37678f76.chunk.css.map": "/matheusRochaWebDeveloper/static/css/main.37678f76.chunk.css.map",
+    "static/media/CV Matheus Rocha.docx (1).pdf": "/matheusRochaWebDeveloper/static/media/CV Matheus Rocha.docx (1).06a6fcb2.pdf",
+    "static/media/bernardo-cunha.png": "/matheusRochaWebDeveloper/static/media/bernardo-cunha.6080d4d4.png",
+    "static/media/loginSystem-mockup.png": "/matheusRochaWebDeveloper/static/media/loginSystem-mockup.7ad9156b.png",
+    "static/media/matheus.png": "/matheusRochaWebDeveloper/static/media/matheus.1f006cb9.png",
+    "static/media/portifolio.png": "/matheusRochaWebDeveloper/static/media/portifolio.f2899661.png"
+  }
+}
