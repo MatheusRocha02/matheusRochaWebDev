@@ -8,7 +8,7 @@ import cv from '../../assets/CV Matheus Rocha.docx (1).pdf';
 
 const Home = () => {
   return (
-    <div className="home-container">
+    <div className="home-container" id="home">
       <div className="main-home-container">
         <img src={matheusImage} alt="Matheus Rocha" className="matheus-image" />
 

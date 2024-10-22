@@ -22,7 +22,7 @@ const MenuIcon = () => {
 
             <nav className={`mobile-menu-nav ${isMenuOpen ? 'open' : ''}`}>
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="#home">Home</a></li>
                     <li><a href="#about">Sobre</a></li>
                     <li><a href="#projects">Projetos</a></li>
                     <li><a href="#contact">Contato</a></li>
@@ -31,7 +31,7 @@ const MenuIcon = () => {
 
             <nav className="desktop-menu-nav">
                 <ul>
-                    <li><a href="#">Home</a></li>
+                    <li><a href="#home">Home</a></li>
                     <li><a href="#about">Sobre</a></li>
                     <li><a href="#projects">Projetos</a></li>
                     <li><a href="#contact">Contato</a></li>
