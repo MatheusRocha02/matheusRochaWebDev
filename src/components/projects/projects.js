@@ -4,6 +4,7 @@ import { useInView } from 'react-intersection-observer';
 import bernardoCunha from '../../assets/bernardo-cunha.png';
 import loginSystem from '../../assets/loginSystem-mockup.png';
 import portifolio from '../../assets/portifolio.png';
+import geradorQRcode from '../../assets/gerador-qr-code.png'
 
 const Projects = () => {
     
@@ -21,7 +22,10 @@ const Projects = () => {
             name: 'Meu portifólio (FRONT)', description: 'React.js'
         },
         {
-            id: 3, image: bernardoCunha, name: 'Portifólio Designer (FRONT)', description: 'HTML, CSS, JS', repository: 'https://github.com/MatheusRocha02/BernardoCunhaDesigner'
+            id: 3, image: geradorQRcode, name: 'Gerador de QR Code (FRONT)', description: 'React.js, Tailwind.css', repository: 'https://github.com/MatheusRocha02/gerador-qr-code'
+        },
+        {
+            id: 4, image: bernardoCunha, name: 'Portifólio Designer (FRONT)', description: 'HTML, CSS, JS', repository: 'https://github.com/MatheusRocha02/BernardoCunhaDesigner'
         }
     ]
 
