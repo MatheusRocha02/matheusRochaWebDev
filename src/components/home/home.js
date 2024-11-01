@@ -3,7 +3,7 @@ import './home.css'
 import matheusImage from '../../assets/matheus.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import cv from '../../assets/CV Matheus Rocha.docx (1).pdf';
+import cv from '../../assets/CV Matheus Rocha.docx (2).pdf';
 
 
 const Home = () => {
