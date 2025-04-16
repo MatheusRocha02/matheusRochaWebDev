@@ -3,45 +3,5 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    gap: 0.8rem;
+    width: 100%;
 }
-.about-me-div{
-    display: flex;
-    flex-direction: column;
-    gap: 0.8rem;
-}
-.about-component{
-    background: rgba(20, 19, 19, 0.877);
-    backdrop-filter: blur(0.5rem);
-    border-radius: 0.8rem;
-    box-shadow: var(--shadow-3);
-  }
-
-  .matheus-about-image{
-    width: auto;
-    border-radius: 1rem;
-    height: 100%;
-    box-shadow: var(--shadow-3);
-  }
-  
-  iframe{
-    width: 90dvw;
-  }
-
-  @media(min-width: 768px) {
-    .about-container{
-       margin-top: 8rem;
-    }
-    .about-me-div{
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      gap: 0.8rem;
-      width: 90rem;
-  }
-  iframe{
-    width: 30%;
-  }
-  
-  }
-

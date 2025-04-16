@@ -1,10 +1,14 @@
 *{
     color: var(--white);
 }
-
 .text-container{
-    width: 90dvw;
+    width: 80dvw;
+    max-width: 90rem;
     padding: 2rem 3rem;
+    background-color: rgb(29, 9, 1);
+    border-radius: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0.1rem 0.1rem 0.2rem rgb(0, 0, 0);
 }
 .text-container h4{
     font-family: var(--font1);
@@ -18,10 +22,3 @@
     font-size: 1.7rem;
     text-align: center;
 }
-
-@media(min-width: 769px) {
-    .text-container{
-        width: 70%;
-    }
-    
-  }

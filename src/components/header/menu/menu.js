@@ -24,6 +24,7 @@ const MenuIcon = () => {
                 <ul>
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">Sobre</a></li>
+                    <li><a href="#experience">Experiência</a></li>
                     <li><a href="#projects">Projetos</a></li>
                     <li><a href="#contact">Contato</a></li>
                 </ul>
@@ -33,6 +34,7 @@ const MenuIcon = () => {
                 <ul>
                     <li><a href="#home">Home</a></li>
                     <li><a href="#about">Sobre</a></li>
+                    <li><a href="#experience">Experiência</a></li>
                     <li><a href="#projects">Projetos</a></li>
                     <li><a href="#contact">Contato</a></li>
                 </ul>

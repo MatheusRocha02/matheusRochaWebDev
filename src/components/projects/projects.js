@@ -5,6 +5,7 @@ import bernardoCunha from '../../assets/bernardo-cunha.png';
 import loginSystem from '../../assets/loginSystem-mockup.png';
 import portifolio from '../../assets/portifolio.png';
 import geradorQRcode from '../../assets/gerador-qr-code.png'
+import userManager from '../../assets/user-manager.png';
 
 const Projects = () => {
     
@@ -15,17 +16,20 @@ const Projects = () => {
 
     const projects = [
         {
-            id: 1, image:loginSystem, name: 'Sistema de Login (FullStack)', description: 'Express.Js, Js, HTML, CSS', repository: 'https://github.com/MatheusRocha02/loginSystem'
+            id: 1, image:userManager ,name: 'API Rest- Gerenciador de usuários (FullStack)', description: 'Python, Django, Django Rest Framework, HTML, Bootstrap, SQLite', repository: 'https://github.com/MatheusRocha02/User-manager'
         },
         {
-            id: 2, image: portifolio,
+            id: 2, image:loginSystem, name: 'Sistema de Login (FullStack)', description: 'Express.Js, Js, HTML, CSS', repository: 'https://github.com/MatheusRocha02/loginSystem'
+        },
+        {
+            id: 3, image: portifolio,
             name: 'Meu portifólio (FRONT)', description: 'React.js'
         },
         {
-            id: 3, image: geradorQRcode, name: 'Gerador de QR Code (FRONT)', description: 'React.js, Tailwind.css', repository: 'https://github.com/MatheusRocha02/gerador-qr-code'
+            id: 4, image: geradorQRcode, name: 'Gerador de QR Code (FRONT)', description: 'React.js, Tailwind.css', repository: 'https://github.com/MatheusRocha02/gerador-qr-code'
         },
         {
-            id: 4, image: bernardoCunha, name: 'Portifólio Designer (FRONT)', description: 'HTML, CSS, JS', repository: 'https://github.com/MatheusRocha02/BernardoCunhaDesigner'
+            id: 5, image: bernardoCunha, name: 'Portifólio Designer (FRONT)', description: 'HTML, CSS, JS', repository: 'https://github.com/MatheusRocha02/BernardoCunhaDesigner'
         }
     ]
 

@@ -1,0 +1,55 @@
+@import url(../../index.css);
+
+.exp-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem 0;
+}
+.exp-container h1{
+    font-size: 3rem;
+    opacity: 0.9;
+    margin: 3rem 0;
+}
+.exp-list{
+    display: flex;
+    flex-direction: column;
+}
+.exp{
+    display: flex;
+    flex-direction: column;
+    width: 80dvw;
+    max-width: 90rem;
+    justify-content: center;
+    align-items: start;
+}
+.title-and-date{
+    border-bottom: 1px solid var(--white);
+    padding-bottom: 1rem;
+}
+.exp-title{
+    font-family: var(--font2);
+    font-weight: 400;
+    font-size: 2rem;
+}
+.exp-date{
+    font-size: 1.5rem;
+    opacity: 0.6;
+    font-weight: 300;
+}
+.stack-and-description{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-top: 3rem;
+}
+.stack-and-description h4{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+.stack-and-description p{
+    opacity: 0.6;
+}
