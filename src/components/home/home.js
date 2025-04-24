@@ -1,6 +1,6 @@
 import React from "react";
 import './home.css'
-import matheusImage from '../../assets/matheus.png'
+import matheusImage from '../../assets/WhatsApp Image 2025-04-23 at 17.07.22.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
 import cv from '../../assets/Curriculo_Matheus_Rocha.pdf';
