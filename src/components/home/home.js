@@ -12,19 +12,19 @@ const Home = () => {
       <div className="main-home-container">
         <img src={matheusImage} alt="Matheus Rocha" className="matheus-image" />
 
-       <div>
-       <div className="greeting">
-          <h1>console.log('Hello World!! Eu sou o</h1>
-          <h2>Matheus Rocha</h2>
-          <h3>Desenvolvedor Web</h3>
-        </div>
-      
+        <div>
+          <div className="greeting">
+            <h1>console.log('Hello World!! Eu sou o</h1>
+            <h2>Matheus Rocha</h2>
+            <h3>Desenvolvedor Web</h3>
+          </div>
 
-      <div className="home-links">
-        <a className="fale-comigo-link" href="https://wa.me/5522997166888">Fale comigo</a>
-        <a className="cv-link" href={ cv } download>Baixar CV</a>
-      </div>
-       </div>
+
+          <div className="home-links">
+            <a className="fale-comigo-link" href="https://wa.me/5522997166888">Fale comigo</a>
+            <a className="cv-link" href={cv} download>Baixar CV</a>
+          </div>
+        </div>
       </div>
 
       <div className="social-medias">

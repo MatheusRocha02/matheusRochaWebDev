@@ -15,7 +15,7 @@
     opacity: 0;
     transform: translateY(10rem);
     transition: opacity 3s ease, transform 2s ease;
-
+    max-width: 100rem;
 }
 .projects-container.fade-in{
     opacity: 1; 

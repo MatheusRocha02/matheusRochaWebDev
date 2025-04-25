@@ -9,6 +9,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 90rem;
 }
 .matheus-image {
     width: 15rem;
