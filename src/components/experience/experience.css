@@ -53,3 +53,15 @@
 .stack-and-description p{
     opacity: 0.6;
 }
+
+.exp-description-list {
+  padding-left: 1.2rem;
+  list-style-type: disc;
+  margin-top: 0.5rem;
+  margin-bottom: 5rem;
+}
+
+.exp-description-list li {
+  margin-bottom: 0.5rem;
+  opacity: 0.7;
+}
